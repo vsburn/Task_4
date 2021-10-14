@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopFor", "LoopFor\LoopFor.csproj", "{E8E5DB3F-7823-4556-8869-760E4F2AF618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo", "LoopDo\LoopDo.csproj", "{D2C32E1D-ADB9-4751-88A1-7C6743C8AF45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopWhile\LoopWhile.csproj", "{780095BB-33C5-49F2-BD60-E46E710E0218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E5DB3F-7823-4556-8869-760E4F2AF618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E5DB3F-7823-4556-8869-760E4F2AF618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E5DB3F-7823-4556-8869-760E4F2AF618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E5DB3F-7823-4556-8869-760E4F2AF618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2C32E1D-ADB9-4751-88A1-7C6743C8AF45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C32E1D-ADB9-4751-88A1-7C6743C8AF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C32E1D-ADB9-4751-88A1-7C6743C8AF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C32E1D-ADB9-4751-88A1-7C6743C8AF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780095BB-33C5-49F2-BD60-E46E710E0218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780095BB-33C5-49F2-BD60-E46E710E0218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780095BB-33C5-49F2-BD60-E46E710E0218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780095BB-33C5-49F2-BD60-E46E710E0218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DAE8C1D-F921-4AB9-9D30-DAED25C13E9B}
+	EndGlobalSection
+EndGlobal
